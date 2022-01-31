@@ -35,22 +35,22 @@ Lec2
 
 # (2. ** 3)
 
-my_int = 123
+# my_int = 123
 
-print(my_int)
+# print(my_int)
 
-my_int = 321
+# my_int = 321
 
-print(my_int)
+# print(my_int)
 
-my_float = 123.
+# my_float = 123.
 
-my_str = 'hello world'
+# my_str = 'hello world'
 
-print(my_float + 1 )
+# print(my_float + 1 )
 
-print(my_str.upper())
+# print(my_str.upper())
 
-_my_int = 123
+# _my_int = 123
 
-print(_my_int)
+# print(_my_int)
