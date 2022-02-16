@@ -35,7 +35,8 @@ print(num_list[-1])
 #3.8
 game_board = [ [0,0,0],
              [0,0,0], 
-              [0,0,0] ]
+             [0,0,0] ]
               
-game_board[1][1]=1
-print(  game_board )
+game_board[1][1] = 1
+print(game_board)
+
